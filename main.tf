@@ -1,3 +1,3 @@
-resource "null_resource" "example-local" {
-}
+#resource "null_resource" "example-local" {
+#}
 
